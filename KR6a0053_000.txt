@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 苦陰經
+#+DATE: 2015-08-30 19:29:48.827399
+#+PROPERTY: JUAN 0
