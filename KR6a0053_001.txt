@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:49.053685
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:28
 #+TITLE: 苦陰經
 #+PROPERTY: CBETA_ID T01n0053
 #+PROPERTY: ID KR6a0053
